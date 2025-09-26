@@ -30,3 +30,7 @@ It is built using **Kotlin** and integrates with a **Weather API** for fetching 
 <img src="weather app screenshots/screenshot3.png" width="200">
 <img src="weather app screenshots/screenshot4.png" width="200">
 <img src="weather app screenshots/screenshot5.png" width="200"> 
+
+
+## Installation
+![](APP/SkyCast App.apk)
