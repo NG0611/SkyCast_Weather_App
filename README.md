@@ -33,4 +33,4 @@ It is built using **Kotlin** and integrates with a **Weather API** for fetching 
 
 
 ## Installation
-![](APP/SkyCast App.apk)
+Click on the APP folder, there you will find the apk file.
