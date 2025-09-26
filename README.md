@@ -25,9 +25,8 @@ It is built using **Kotlin** and integrates with a **Weather API** for fetching 
 
 ## 📸 Screenshots
 
-![](Screenshot1.png)  
-![](Screenshot2.png)  
-![](Screenshot3.png)  
-![](Screenshot4.png)  
-![](Screenshot5.png)
-
+<img src="Screenshot1.png" width="200">
+<img src="Screenshot2.png" width="200">
+<img src="Screenshot3.png" width="200">
+<img src="Screenshot4.png" width="200">
+<img src="Screenshot5.png" width="200">
