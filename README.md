@@ -25,5 +25,4 @@ It is built using **Kotlin** and integrates with a **Weather API** for fetching 
 
 ## 📸 Screenshots
 (Add screenshots of your app here if possible)  
-`![Home Screen](path/to/screenshot1.png)`  
-`![Weather Details](path/to/screenshot2.png)`
+(Screenshot1.png)
